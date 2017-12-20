@@ -1,11 +1,17 @@
 # StackChat
 
-A chatty chat appy app.
+[StackChat](https://github.com/i1992/stackchat) is a
+Application which user have multiple channels, from which user can send/receive message to/from different channels..
 
-## Setting up
+# Quickstart
 
-* `npm install` (or `yarn install`)
-* `npm run seed`
-* `npm start`
+### Install
 
-The `start` command will run both the `webpack` process (in watch mode) to build you client-side javascript files, and the Node process for your server with `nodemon`.
+    $ npm install
+
+ Following Command will install all the dependencies to help run this program !
+
+### Run
+
+    $ npm run seed
+    $ npm start
